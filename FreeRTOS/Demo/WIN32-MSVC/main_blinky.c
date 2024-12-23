@@ -173,7 +173,7 @@ static char *pStrDemoName[] = {
     "EventGroup",
     "GroupSync",
     "TaskNotify(ClearOnExit==TRUE)",
-    "TaskNotify(ClearOnExit==FALSE)"
+    "TaskNotify(ClearOnExit==FALSE)",
     "MaxDemoType"
 };
 /*-----------------------------------------------------------*/
